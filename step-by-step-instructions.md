@@ -37,7 +37,7 @@ some name suitable for the feature being proposed.
          1. Click on the "current branch" button (top left, says something
             like `Branch: master` and has a little down arrow on it).
          2. Type in the name of the new branch in the text box
-            (e.g. FEATURE)
+            (e.g. `FEATURE`)
          3. Press `Enter`.  Now the current branch button should say
             `Branch: FEATURE`.
       3. Click on the directory called `texts` in the repo.
@@ -48,7 +48,7 @@ some name suitable for the feature being proposed.
         `Commit directly to the FEATURE branch.`
       8. Click on the green `Commit changes` button.
          Now you should be back on the main page for the repo, and the
-         current branch should still say `Branch: FEATURE.
+         current branch should still say `Branch: FEATURE`.
       9. Click on the `New pull request` button
           (next to the current branch button).
       10. Click on the green `Create pull request` button
