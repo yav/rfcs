@@ -52,7 +52,7 @@ some name suitable for the feature being proposed.
       9. Click on the `New pull request` button
           (next to the current branch button).
       10. Click on the green `Create pull request` button
-      11. Optional: check that everything worked:
+      11. (Optional) check that everything worked:
           1. Go to: `https://github.com/haskell/rfcs`
           2. Click on the `Pull requests` tab (top, 3rd from the left).
           3. You should see your pull request there.
