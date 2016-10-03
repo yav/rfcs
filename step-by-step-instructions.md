@@ -42,7 +42,7 @@ some name suitable for the feature being proposed.
             `Branch: FEATURE`.
       3. Click on the directory called `texts` in the repo.
       4. Click on the `Upload files` button (top right)
-      5. Click on the `choose your files` link (or drag files as the page says).
+      5. Click on the `choose your files` link (or drag files as the page says), and select `0000-FEATURE.md` from your computer.
       6. Write `FEATURE` in the `Commit changes` text box
       7. Make sure the radio box is on the
         `Commit directly to the FEATURE branch.`
