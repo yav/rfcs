@@ -57,7 +57,7 @@ some name suitable for the feature being proposed.
           2. Click on the `Pull requests` tab (top, 3rd from the left).
           3. You should see your pull request there.
           4. Click on your pull request.
-          5. Click on `Files changed` (there should be 1 of thse).
+          5. Click on `Files changed` (there should be 1 of these).
           6. You should see a diff with your proposal in it.
 
 
