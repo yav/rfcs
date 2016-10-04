@@ -62,14 +62,15 @@ some name suitable for the feature being proposed.
       9. Click on the `New pull request` button
           (next to the current branch button).
       10. Click on the green `Create pull request` button
-      11. (Optional) check that everything worked:
+      11. Add a link to the rendered version
           1. Go to: `https://github.com/haskell/rfcs`
           2. Click on the `Pull requests` tab (top, 3rd from the left).
           3. You should see your pull request there.
-          4. Click on your pull request.
-          5. Click on `Files changed` (there should be 1 of these).
-          6. You should see a diff with your proposal in it.
-
+          4. Click on your pull request.,
+          5. By default the top comment has a link to a diff for your changes.  This is hard to read,
+             so edit it (click the pencil button) to add a link to the rendered version of your proposal.
+              Its URL should be https://github.com/USER/rfcs/blob/FEATURE/texts/0000-FEATURE.rst
+          
 
 
 
