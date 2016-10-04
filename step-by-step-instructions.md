@@ -1,3 +1,13 @@
+Overview
+--------
+
+This is a document outlining the step-by-step process for users who are casual `git` and `GitHub` users.  For the experts, the summary is:
+   1. Fork: https://github.com/haskell/rfcs
+   2. Use `0000-template.rst` to format your proposal, and place it in `texts/0000-FEATURE_NAME.rst` (you probably want to do this on a branch)
+   3. To submit your proposal make a pull request to `https://github.com/haskell/rfcs`.
+
+
+
 Fork the RFC repository from GitHub
 -----------------------------------
 
@@ -27,7 +37,7 @@ some name suitable for the feature being proposed.
       1. Click on the file `000-template.rst` in the root directory of the repo
       2. Click on the `Raw` button in the top right
       3. Save the resulting file somewhere on your computer,
-         using the name `0000-FEATURE.md`
+         using the name `0000-FEATURE.rst`
 
   2. Fill in the template on your computer, explaining the proposed feature.
 
