@@ -71,9 +71,13 @@ to use `Color { red = red1, green, blue }` instead.
 Alternatives
 ############
 
+No known, so far.
+
 
 ####################
 Unresolved questions
 ####################
+
+None, so far.
 
 
